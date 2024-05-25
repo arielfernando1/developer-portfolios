@@ -90,6 +90,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
+- [Ariel Aguirre](https://arieldev2.vercel.app)
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
